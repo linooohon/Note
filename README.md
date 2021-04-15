@@ -1,3 +1,3 @@
-# My Personal Diary !
+## Nothing special here, just diary or note
 ---
-## Sometimes I write it here
+### I write it here sometimes
